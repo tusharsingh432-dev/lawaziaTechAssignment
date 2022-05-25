@@ -1,0 +1,17 @@
+{
+  "name": "lawazia-tech",
+  "version": "1.0.0",
+  "description": "Assignment for Lawazia Tech",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "winston": "^3.7.2"
+  }
+}
