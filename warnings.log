@@ -1,4 +1,2 @@
-{"level":"info","message":"Request 1","service":"user-service"}
-{"level":"info","message":"Request 1","service":"user-service"}
 {"level":"error","message":"Request 2","service":"user-service"}
 {"level":"warn","message":"Request 2","service":"user-service"}
